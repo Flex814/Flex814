@@ -23,7 +23,7 @@
             <b>Hobbies:</b> Game Jams, Learning Japanese, Martial Arts, Cars
             </li>
             <li>
-            <b>Working @:</b> InvestCloud
+            <b>Working @:</b> Quiet Professionals
             </li>
         </div>
     </div>
