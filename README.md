@@ -42,17 +42,10 @@
     </div>
     <br>
     <div>
-        <h2 align="center"> ~ Contact me ~</h2>
-        <div align="center">
-            <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"">
-        </div>
-    </div>
-    <br>
-    <div>
         <h2 align="center">( ˙꒳​˙ ) Thanks for reading! ( ˙꒳​˙ ) </h2>
         <br />
         <div align="center">
-        <img src="https://i.imgur.com/PJW9cxS.gif">
+        <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"">
     </div>
         
 </center>
